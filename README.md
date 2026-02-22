@@ -19,7 +19,7 @@ Current design professional currently working on becomming a frontend dev. I rea
 
 ### Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://garywintle.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8E59E1?style=for-the-badge&logo=astro&logoColor=white)](https://garywintle.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/garywintle](https://www.linkedin.com/in/gary-wintle-9168962/))
 [![Email](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gwintle@gmail.com)
 
