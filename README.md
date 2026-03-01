@@ -25,4 +25,4 @@ Current design professional currently working on becomming a frontend dev. I rea
 
 ---
 
-<sub>Open to Creative Developer, Design Engineer & Frontend roles · Based in Japan</sub>
+<sub>Open to Creative Developer, Design Engineer & Frontend roles · Based in Osaka, Japan</sub>
