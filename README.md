@@ -11,7 +11,7 @@ Current design professional currently working on becomming a frontend dev. I rea
 
 **[Dana Larsen's Personal Site](https://github.com/GaryWintle/danalarsen)** — Vancouver-based drug policy reform activist, author, and founder of multiple harm reduction organizations. I'm making him an site using AstroJS as well as Decap for easy CMS.
 
-**[Kofun](https://github.com/GaryWintle/kofun-tester)** — A gamified Pomodoro timer with a soul. Features original haniwa character art, AI-powered encouragement via Claude API, emotion-driven Lottie animations, and real-time weather-based environments. Built with React & Next.js. <!-- TODO: Add live demo link when deployed -->
+**[Kofun](https://github.com/GaryWintle/kofun)** — A gamified Pomodoro timer with a soul. Features original haniwa character art, AI-powered encouragement via Claude API, emotion-driven Lottie animations, and real-time weather-based environments. Built with React & Next.js. <!-- TODO: Add live demo link when deployed -->
 
 ### Tech & Tools
 
