@@ -15,7 +15,7 @@ Current design professional currently working on becomming a frontend dev. I rea
 
 ### Tech & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,vercel,figma,ae,ai&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,figma,ae,ai&theme=dark)](https://skillicons.dev)
 
 ### Let's Connect
 
